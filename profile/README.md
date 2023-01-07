@@ -14,3 +14,12 @@
 曾经这是一个考研的项目，有过一个域名 kaoyan1234.com，不过应该是放弃了，折腾之后剩下一点无聊的 *东西*，丢在这里
 
 2022 祝好，感谢
+
+---
+
+找到了 cloudflare page 的历史构建 v1
+
+```
+https://web.archive.org/web/20230107065715/https://kaoyan1234-page.pages.dev/
+https://web.archive.org/web/20230107065822/https://kaoyan1234-page.pages.dev/readme/
+```
